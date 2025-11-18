@@ -1,62 +1,57 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1215,100:1E2A2F&height=200&section=header&text=Bhavya%20Vashisht&fontColor=E2E8F0&fontSize=45&animation=fadeIn&fontAlignY=38" />
+<h1 align="center">Hi, I'm Bhavya Vashisht</h1>
+<h3 align="center">I build backend systems and ML-powered applications</h3>
+
+I like working at the intersection of **backend engineering, systems programming, and practical ML**.  
+Clean design, correctness, and understanding how things work under the hood guide my approach to building software.
+
+- 🔭 Currently working on: **backend systems, AI and its use**
+- 🌱 Exploring: **AWS**, **Docker**, **Distributed Systems**
+- 👨‍💻 Portfolio: **https://bhavyaportfolio.site**
+- 📫 Reach me at: **bhavyavashisht119@gmail.com**
+- 💬 Ask me about: **backend design, Go, Python, AI**
+- 🎯 Interests: **Gym, Guitar, Sports, Math & Physics (hobby)**
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
 </p>
 
-<p align="center">
-  <samp>Backend • Systems • ML • Developer Tools</samp>
-</p>
-<br/>
-
 ---
 
-## 🛠️ About Me
+## 🚀 Selected Work
 
-I work across **backend engineering, systems programming, ML/AI, agents, and developer tooling**.  
-My focus is on building clean, understandable systems — from CLI tools to HTTP services, ML pipelines, and automation workflows.
-
-I enjoy solving real problems with practical engineering, and I prefer writing code that is simple, predictable, and maintainable.
-
----
-
-## ⚙️ Skills Snapshot
-
-**Languages**  
-Go, Python, C, C++, SQL, TypeScript (basic)
-
-**Backend & Systems**  
-REST APIs, auth, rate limiting, concurrency, server design, CLI tooling
-
-**ML / AI**  
-YOLO, HOG-based face recognition, agents, inference pipelines, Gemini API
-
-**Tools**  
-PostgreSQL, Redis, Docker, Netlify, Raspberry Pi, Arduino, Ngrok, Linux/WSL
-
----
-
-## 🚀 Selected Projects
-
-(*Full details, demos, and docs are on my portfolio + project READMEs.*)
+(*Full project details and demos are on my portfolio and project READMEs.*)
 
 ### **Backend & Systems**
-- **Chirpy** — HTTP backend server in Go  
-- **Gator** — CLI RSS aggregator (Go)  
-- **Static Site Generator** — Markdown → HTML compiler (Python)
+- **Chirpy (Go)** — HTTP backend with auth, posts API  
+- **Gator (Go)** — CLI RSS aggregator & content fetcher  
 
-### **AI / Agents**
-- **AI Agent CLI** — Gemini-powered automation assistant  
+### **AI / Automation**
+- **AI Agent CLI (Python)** — Gemini-powered automation assistant  
 
 ### **IoT + ML**
-- **Food Waste Management System** — Raspberry Pi + CV + custom ML APIs
+- **Food Waste Management System** — Raspberry Pi + YOLO + HOG face recognition + custom ML APIs  
 
-👉 **Full descriptions & demos:** https://bhavyaportfolio.site  
-👉 **Code & documentation:** see individual project repos
+👉 Full details & demos: **https://bhavyaportfolio.site**
 
 ---
 
 ## 📚 Currently Exploring
-Distributed systems • System design • Developer tooling • Practical ML • Physics & math (personal interest)
+Distributed systems • System design • AI • Physics & math (personal interest)
 
 ---
 
@@ -77,8 +72,4 @@ Distributed systems • System design • Developer tooling • Practical ML •
 ---
 
 ## 📬 Contact
-**Email:** bhavyavashisht2003@gmail.com  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1215,100:1E2A2F&height=150&section=footer" />
-</p>
+**Email:** bhavyavashisht119@gmail.com
