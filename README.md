@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bhavya Vashisht 👋
+# Hi, absurdoid here
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+%26+Systems+Engineer;Go+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Redis;I+build+APIs%2C+CLIs+%26+developer+tooling;Going+deeper+on+applied+AI" alt="Bhavya Vashisht" />
 
