@@ -43,7 +43,7 @@ Two are deployed **live** — click **▶ live demo** to try them in your browse
 | :------ | :--------- | :---- |
 | **[Deputy](https://github.com/BhavyaV29/deputy-agent)** · [▶ live demo](https://deputy-web-demo.onrender.com) | Private, on-device AI agent — a constrained-decoding ReAct loop lifts task success 29% → 88% (schema-valid tool calls 71% → 100%); MCP tools, on-device RAG, approval-gated writes + audit log | `Python` · `Ollama` · `MCP` |
 | **[job-hunter-pipeline](https://github.com/BhavyaV29/job-hunter-pipeline)** · [▶ live demo](https://job-hunter-pipeline.onrender.com) | Daily job-ops pipeline — async fetch across 15+ boards & ATS APIs → dedup, filter, track, and outreach drafts (never auto-sends); in-browser setup + daily GitHub Actions refresh | `Python` · `asyncio` · `LLM APIs` |
-| **[Chirpy](https://github.com/BhavyaV29/chirpy)** | Production-style microblogging REST API — JWT refresh rotation, bcrypt, SQLC, Polka webhooks | `Go` · `PostgreSQL` · `SQLC` |
+| **[Chirpy](https://github.com/BhavyaV29/chirpy)** | Production-style microblogging REST API — JWT refresh rotation, Argon2id, SQLC, Polka webhooks | `Go` · `PostgreSQL` · `SQLC` |
 | **[CLI-Agent](https://github.com/BhavyaV29/CLI-Agent)** | A Gemini function-calling coding agent that reads, patches & runs code (plan–act–observe loop) | `Python` · `Gemini` |
 | **[Gator](https://github.com/BhavyaV29/Gator)** | Terminal RSS aggregator with a continuous round-robin fetch worker | `Go` · `PostgreSQL` · `SQLC` |
 
