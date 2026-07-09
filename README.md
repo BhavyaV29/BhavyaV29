@@ -2,7 +2,7 @@
 
 # Hi, absurdoid here
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+%26+Systems+Engineer;Go+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Redis;I+build+APIs%2C+CLIs+%26+developer+tooling;Going+deeper+on+applied+AI" alt="Bhavya Vashisht" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+%26+ML-Platform+Engineer;Go+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Redis;I+build+APIs%2C+CLIs+%26+developer+tooling;Going+deeper+on+applied+AI" alt="Bhavya Vashisht" />
 
 <p>
   <a href="https://bhavyaportfolio.site"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
