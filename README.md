@@ -1,53 +1,22 @@
-<div align="center">
+# Bhavya Vashisht
 
-# Hi, I'm Bhavya Vashisht
+I build backend services and AI tooling in **Python and Go**. I'm a 2026 Electronics and Communication Engineering graduate from Thapar Institute, and worked as a **Machine Learning Engineer Intern at Yum! Brands from January to July 2026**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+%2F+AI-Platform+Engineer;Python+%C2%B7+Go+%C2%B7+Kubernetes;APIs+%C2%B7+Agent+Infrastructure+%C2%B7+Developer+Tools" alt="Bhavya Vashisht" />
+During my internship, I contributed to agent scheduling and deployment, asynchronous usage processing, MCP integration, and API performance work. My projects explore APIs, developer tools, and how to evaluate the behavior of software around language models.
 
-<p>
-  <a href="https://bhavyavportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/bhavya-vashisht-993079258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bhavyavashisht119@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=BhavyaV29&style=for-the-badge&color=0EA5E9&label=Views" alt="Profile views" />
-</p>
+I'm looking for **junior software, backend, and applied-AI engineering roles**. Based in Delhi NCR, India.
 
-</div>
+[Portfolio](https://bhavyavportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/bhavya-vashisht-993079258/) · [Email](mailto:bhavyavashisht119@gmail.com)
 
----
+## Selected projects
 
-## About
+| Project | What to inspect |
+| --- | --- |
+| **[Deputy](https://github.com/BhavyaV29/deputy-agent)** | Local Python/Ollama agent with MCP tools, retrieval, approval gates, and an evaluation harness. In a **17-task fixture-tool evaluation on `qwen2.5:3b`**, recorded task completion rose from **5/17 to 15/17** with constrained decoding. The [browser walkthrough](https://deputy-web-demo.onrender.com) is scripted by default and separate from that evaluated runtime. |
+| **[JobOps Pipeline](https://github.com/BhavyaV29/job-hunter-pipeline)** | Python job-sourcing pipeline: asynchronous fetching, normalization, deduplication, filtering, scoring, and optional Google Sheets tracking. Outreach drafts require review before sending. The [demo](https://job-hunter-pipeline.onrender.com) uses read-only sample data. |
+| **[Chirpy](https://github.com/BhavyaV29/chirpy)** | Go learning project with PostgreSQL, SQLC, Goose migrations, JWT authentication, Argon2id password hashing, refresh-token support and revocation, and a premium-upgrade webhook. |
+| **[Gator](https://github.com/BhavyaV29/Gator)** | Go/PostgreSQL RSS aggregator with per-user feed subscriptions and a periodic fetch worker. |
 
-Backend / AI-platform engineer — I build **production APIs, Kubernetes workflows, and developer tooling** in **Python** and **Go**, backed by PostgreSQL, Redis, and MongoDB. Recent work focuses on scheduling, deployment, and reliability for AI-agent systems.
+## Current focus
 
-I care about correctness under concurrency, clean API design, and code that's easy to reason about months later.
-
-**[https://bhavyavportfolio.netlify.app](https://bhavyavportfolio.netlify.app)** · **bhavyavashisht119@gmail.com**
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,kubernetes,docker,fastapi,postgres,redis,mongodb,c,linux,git&theme=dark&perline=11" alt="Tech stack" />
-
-</div>
-
----
-
-## Featured Projects
-
-The two flagships are deployed — use the browser links with no local setup.
-
-| Project | What it is | Stack |
-| :------ | :--------- | :---- |
-| **[Deputy](https://github.com/BhavyaV29/deputy-agent)** · [browser walkthrough](https://deputy-web-demo.onrender.com) | Python/Ollama on-device agent — constrained decoding lifts task success 29% → 88% (schema-valid tool calls 71% → 100%); MCP tools, on-device RAG, approval-gated writes and network access, audit log. The walkthrough is scripted by default; WebGPU inference is optional. | `Python` · `Ollama` · `MCP` |
-| **[job-hunter-pipeline](https://github.com/BhavyaV29/job-hunter-pipeline)** · [read-only demo](https://job-hunter-pipeline.onrender.com) | Daily job-ops pipeline — async fetch across 15+ boards and ATS APIs → dedup, filter, track, and review-before-send outreach drafts; scheduled refresh and Google Sheets sync | `Python` · `asyncio` · `LLM APIs` |
-| **[Portfolio](https://bhavyavportfolio.netlify.app)** · [source](https://github.com/BhavyaV29/Portfolio) | Responsive project portfolio with live demos, concise case studies, and contact links | `Next.js` · `TypeScript` · `Tailwind CSS` |
-| **[Chirpy](https://github.com/BhavyaV29/chirpy)** | Production-style microblogging REST API — JWT refresh rotation, Argon2id, SQLC, Polka webhooks | `Go` · `PostgreSQL` · `SQLC` |
-
----
-
-<div align="center">
-<sub>Open to backend, platform, and applied-AI engineering roles.</sub>
-</div>
+I'm strengthening independent implementation and debugging in Go, Python, SQL, and HTTP, then extending that foundation into containers, security, messaging, and observability. Longer term, I'm interested in ML systems and research engineering: reproducing results, measuring failures, and building useful experiments.
