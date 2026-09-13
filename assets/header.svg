@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Bhavya Vashisht — backend and AI systems</title>
+  <title id="title">Bhavya Vashisht — AI &amp; Systems</title>
   <desc id="desc">Dark technical header with a green cursor and a small connected-node diagram. Build, debug, measure.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263345" stroke-width="0.6"/></pattern>
@@ -16,7 +16,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
     <text x="54" y="61" fill="#8de6b0" font-size="15" letter-spacing="2">~/BHAVYAV29</text>
     <text x="52" y="139" fill="#f0f5fa" font-size="55" font-weight="700" letter-spacing="-2">Bhavya Vashisht</text>
-    <text x="55" y="187" fill="#aebfd0" font-size="21">backend + AI systems</text>
+    <text x="55" y="187" fill="#aebfd0" font-size="21">AI &amp; Systems</text>
     <text x="55" y="253" fill="#8de6b0" font-size="15" letter-spacing="1">build. debug. measure.</text>
     <rect x="284" y="239" width="9" height="17" fill="#8de6b0"/>
   </g>
